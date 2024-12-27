@@ -43,7 +43,7 @@ open index.html
 
 ![image](https://github.com/user-attachments/assets/9babc8c2-104d-4f91-820d-4f2b69318d43)
 
-*Repositories displayed with descriptions and links.*
+*Landing Page Features*
 
 ## Contributing 🤝
 
