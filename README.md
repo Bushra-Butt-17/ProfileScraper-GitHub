@@ -65,7 +65,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 - **GitHub**: [@Bushra-Butt-17](https://github.com/Bushra-Butt-17)
 - **LinkedIn**: [Bushra Butt](https://www.linkedin.com/in/bushra-butt/)
-- **Twitter**: [@BushraTweets](https://twitter.com/BushraTweets)
 
 ## Acknowledgments 🙏
 
@@ -75,5 +74,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 *Passionate About Progress* 💡✨
-```
-
