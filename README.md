@@ -1,7 +1,7 @@
 
 # ProfileScraper-GitHub 🚀
 
-![image](https://github.com/user-attachments/assets/356594ea-193b-4415-ae80-b069f79ab40e)
+![image](https://github.com/user-attachments/assets/6ebc1650-d430-4828-b1e6-d0b6b194ab50)
 
 **ProfileScraper-GitHub** is a powerful web application that allows you to easily explore GitHub profiles and repositories. By simply entering a GitHub username, you can instantly retrieve detailed information about the user’s profile, including bio, followers, repositories, and much more. Perfect for developers, recruiters, or anyone interested in exploring the vast world of GitHub! 🌍
 
