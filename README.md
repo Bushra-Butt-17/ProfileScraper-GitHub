@@ -30,17 +30,19 @@
 Clone the repository and open the `index.html` file in your browser to get started!
 
 ```bash
-git clone https://github.com/your-username/ProfileScraper-GitHub.git
+git clone https://github.com/Bushra-Butt-17/ProfileScraper-GitHub.git
 cd ProfileScraper-GitHub
 open index.html
 ```
 
 ## Screenshots 📸
 
-![Profile Display](./screenshots/profile-display.png)
+![Screenshot 2024-12-27 084234](https://github.com/user-attachments/assets/48efccdb-c498-423c-84a3-0125b7143dd7)
+
 *GitHub profile fetched with all details.*
 
-![Repository Cards](./screenshots/repository-cards.png)
+![image](https://github.com/user-attachments/assets/9babc8c2-104d-4f91-820d-4f2b69318d43)
+
 *Repositories displayed with descriptions and links.*
 
 ## Contributing 🤝
