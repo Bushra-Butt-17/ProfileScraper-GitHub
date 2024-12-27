@@ -41,6 +41,8 @@ open index.html
 
 *GitHub profile fetched with all details.*
 
+![Screenshot 2024-12-27 084247](https://github.com/user-attachments/assets/35f4fb28-3679-4d14-9ac8-9672bf9eecb3)
+
 ![image](https://github.com/user-attachments/assets/9babc8c2-104d-4f91-820d-4f2b69318d43)
 
 *Landing Page Features*
